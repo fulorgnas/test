@@ -1,0 +1,5 @@
+.flex-container
+ {
+     display: inline-flex;
+     height: 300px;
+ }
